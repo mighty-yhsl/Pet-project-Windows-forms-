@@ -1,0 +1,178 @@
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\aprox\source\repos\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en.resources
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru.resources
+C:\Users\Student\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en.resources
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru.resources
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\NLog.config
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\NLog.dll
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\NLog.xml
+C:\Users\aprox\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\NLog.config
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en.resources
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru.resources
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\aprox\Desktop\myGame\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\NLog.config
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru.resources
+C:\Users\oksana\Desktop\ІНФОРМАТІКА YAROSLAV\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru\WindowsFormsApp3.resources.dll
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru-RU.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\NLog.config
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\WindowsFormsApp3.resources.dll
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru-RU\WindowsFormsApp3.resources.dll
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\WindowsFormsApp3.resources.dll
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en\WindowsFormsApp3.resources.dll
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru-RU\WindowsFormsApp3.resources.dll
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru\WindowsFormsApp3.resources.dll
+E:\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en-US\WindowsFormsApp3.resources.dll
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en-US.resources
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en-US\WindowsFormsApp3.resources.dll
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en-US.resources
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en.resources
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru-RU.resources
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru.resources
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\NLog.config
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en-US\WindowsFormsApp3.resources.dll
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\WindowsFormsApp3.resources.dll
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru-RU\WindowsFormsApp3.resources.dll
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\WindowsFormsApp3.resources.dll
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en-US\WindowsFormsApp3.resources.dll
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en\WindowsFormsApp3.resources.dll
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru-RU\WindowsFormsApp3.resources.dll
+E:\Games\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\NLog.config
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en-US\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru-RU\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csprojAssemblyReference.cache
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en-US.resources
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en.resources
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru-RU.resources
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru.resources
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en-US\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru-RU\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru\WindowsFormsApp3.resources.dll
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormReport.resources
+C:\Users\oksana\Desktop\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormReport.resources
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\NLog.config
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe.config
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.exe
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\WindowsFormsApp3.pdb
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en-US\WindowsFormsApp3.resources.dll
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\en\WindowsFormsApp3.resources.dll
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru-RU\WindowsFormsApp3.resources.dll
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\bin\Debug\ru\WindowsFormsApp3.resources.dll
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.AssemblyReference.cache
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.SuggestedBindingRedirects.cache
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.resources
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.FormReport.resources
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Properties.Resources.resources
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en-US.resources
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.en.resources
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru-RU.resources
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.Form1.ru.resources
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.GenerateResource.cache
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CoreCompileInputs.cache
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en-US\WindowsFormsApp3.resources.dll
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\en\WindowsFormsApp3.resources.dll
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru-RU\WindowsFormsApp3.resources.dll
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\ru\WindowsFormsApp3.resources.dll
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.csproj.CopyComplete
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.exe
+E:\Колледж\Naugolna\WindowsFormsApp3\WindowsFormsApp3\obj\Debug\WindowsFormsApp3.pdb

@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Report ScriptLanguage="CSharp" ReportInfo.Created="11/14/2021 14:26:32" ReportInfo.Modified="11/14/2021 15:26:40" ReportInfo.CreatorVersion="2013.2.3.0">
+  <Dictionary>
+    <XmlDataConnection Name="Connection" ConnectionString="rijcmlqmmfdjkQxfe1iwShBNGpud/H8yCijtTqtYmC33vObmps=">
+      <TableDataSource Name="Goods" DataType="System.Int32" Enabled="true" TableName="Goods">
+        <Column Name="name" DataType="System.String"/>
+        <Column Name="price" DataType="System.String"/>
+        <Column Name="count" DataType="System.String"/>
+        <Column Name="code" DataType="System.String"/>
+      </TableDataSource>
+    </XmlDataConnection>
+  </Dictionary>
+  <ReportPage Name="Page1">
+    <ReportTitleBand Name="ReportTitle1" Width="718.2" Height="113.4">
+      <TextObject Name="Text1" Left="217.35" Top="28.35" Width="255.15" Height="28.35" Text="Перелік товарів на складі" HorzAlign="Center" Font="Times New Roman, 16pt"/>
+      <TextObject Name="Text2" Left="255.15" Top="66.15" Width="179.55" Height="18.9" Text="[Date]" Font="Times New Roman, 14pt"/>
+      <BarcodeObject Name="Barcode1" Left="529.2" Top="9.45" Width="177.5" Height="85.05" Border.Lines="All"/>
+    </ReportTitleBand>
+    <PageHeaderBand Name="PageHeader1" Top="117.4" Width="718.2" Height="18.9">
+      <TextObject Name="Text4" Width="56.7" Height="18.9" Border.Lines="All" Text="№" HorzAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text6" Left="56.7" Width="94.5" Height="18.9" Border.Lines="All" Text="Назва " HorzAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text8" Left="151.2" Width="94.5" Height="18.9" Border.Lines="All" Text="Ціна в $" HorzAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text10" Left="245.7" Width="94.5" Height="18.9" Border.Lines="All" Text="Кількість" HorzAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text12" Left="340.2" Width="94.5" Height="18.9" Border.Lines="All" Text="Код" HorzAlign="Center" Font="Times New Roman, 12pt"/>
+    </PageHeaderBand>
+    <DataBand Name="Data1" Top="140.3" Width="718.2" Height="18.9" DataSource="Goods">
+      <TextObject Name="Text3" Width="56.7" Height="18.9" Border.Lines="All" Text="[Row#]" HorzAlign="Center" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text5" Left="56.7" Width="94.5" Height="18.9" Border.Lines="All" Text="[Goods.name]" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text7" Left="151.2" Width="94.5" Height="18.9" Border.Lines="All" Text="[Goods.price]" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text9" Left="245.7" Width="94.5" Height="18.9" Border.Lines="All" Text="[Goods.count]" Font="Times New Roman, 12pt"/>
+      <TextObject Name="Text11" Left="340.2" Width="94.5" Height="18.9" Border.Lines="All" Text="[Goods.code]" Font="Times New Roman, 12pt"/>
+    </DataBand>
+    <PageFooterBand Name="PageFooter1" Top="163.2" Width="718.2" Height="359.1"/>
+  </ReportPage>
+</Report>

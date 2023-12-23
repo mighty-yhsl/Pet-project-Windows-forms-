@@ -1,0 +1,69 @@
+<?xml version="1.0"?>
+<ArrayOfGoods xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Goods>
+    <name>Iphone X</name>
+    <price>1300</price>
+    <count>2</count>
+    <code>1</code>
+  </Goods>
+  <Goods>
+    <name>Iphone Xr</name>
+    <price>1000</price>
+    <count>1</count>
+    <code>2</code>
+  </Goods>
+  <Goods>
+    <name>Magic mouse</name>
+    <price>250</price>
+    <count>3</count>
+    <code>3</code>
+  </Goods>
+  <Goods>
+    <name>Apple pencil</name>
+    <price>300</price>
+    <count>2</count>
+    <code>4</code>
+  </Goods>
+  <Goods>
+    <name>Imac</name>
+    <price>5000</price>
+    <count>1</count>
+    <code>5</code>
+  </Goods>
+  <Goods>
+    <name>Macbook pro </name>
+    <price>3000</price>
+    <count>6</count>
+    <code>6</code>
+  </Goods>
+  <Goods>
+    <name>Macbook air</name>
+    <price>1500</price>
+    <count>3</count>
+    <code>7</code>
+  </Goods>
+  <Goods>
+    <name>Case for macbook</name>
+    <price>100</price>
+    <count>10</count>
+    <code>8</code>
+  </Goods>
+  <Goods>
+    <name>Keyboard</name>
+    <price>500</price>
+    <count>7</count>
+    <code>9</code>
+  </Goods>
+  <Goods>
+    <name>Apple charge</name>
+    <price>150</price>
+    <count>4</count>
+    <code>10</code>
+  </Goods>
+  <Goods>
+    <name>Apple airpods</name>
+    <price>270</price>
+    <count>13</count>
+    <code>11</code>
+  </Goods>
+</ArrayOfGoods>
